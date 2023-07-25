@@ -1,0 +1,3 @@
+### Find All content
+
+GET http://localhost:8080/api/content
